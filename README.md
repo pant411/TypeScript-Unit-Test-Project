@@ -14,7 +14,7 @@ To use the project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone [TypeScript-Unit-Test-Project](https://github.com/pant411/TypeScript-Unit-Test-Project)
+git clone https://github.com/pant411/TypeScript-Unit-Test-Project
 ```
 2. Navigate to the project directory:
 ```bash
