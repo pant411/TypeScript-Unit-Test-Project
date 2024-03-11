@@ -14,11 +14,11 @@ To use the project, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone [TypeScript-Unit-Test-Project](https://github.com/pant411/TypeScript-Unit-Test-Project)
 ```
 2. Navigate to the project directory:
 ```bash
-cd <project_directory>
+cd TypeScript-Unit-Test-Project
 ```
 3. Install dependencies using npm:
 ```bash
